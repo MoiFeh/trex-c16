@@ -1,1 +1,1 @@
-# trex-c16
+# PRO-C14-Trex-4.5
